@@ -1,12 +1,12 @@
-version = "1.0.0" // Plugin version. Increment this to trigger an update
+version = "1.0.1" // Plugin version. Increment this to trigger an update
 description = "Interfaz rediseñada para Aliucord" // Plugin description that will be shown to user
 
 aliucord {
     // Changelog of your plugin
     changelog.set(
         """
-        # 1.0.0
-        * Initial plugin release!
+        # 1.0.1
+        * Corregir autor y repositorio en el manifest
         """.trimIndent(),
     )
 
